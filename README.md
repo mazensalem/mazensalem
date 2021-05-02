@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mazensalem
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning graphql
+- 🌱 I’m currently makeing my cv
 - 💞️ I’m looking to collaborate on opensource project
 - 📫 How to reach me salemmazen27@gamil.com
 
